@@ -1,11 +1,11 @@
 {   
-	"Version": "1.01",
-	"FileList":"https://181.215.236.118/update/filelist.json",
-	"FileDelete":"https://181.215.236.118/update/filedelete.json",
-	"DownloadUpdate": "https://181.215.236.118/update/dayz/",		
+	"Version": "1.00",
+	"FileList":"http://26.55.213.205/update/filelist.json",
+	"FileDelete":"http://26.55.213.205/update/filedelete.json",
+	"DownloadUpdate": "http://26.55.213.205/update/dayz/",		
 	"News": [
-		"https://deadzoneofc.github.io/DeadZone/News/0.png",
-		"https://deadzoneofc.github.io/DeadZone/News/1.png",
-		"https://deadzoneofc.github.io/DeadZone/News/2.png"
+		"https://icarogame.github.io/apocalypseupdate/News/0.png",
+		"https://icarogame.github.io/apocalypseupdate/News/1.png",
+		"https://icarogame.github.io/apocalypseupdate/News/2.png"
 	]			
 }
