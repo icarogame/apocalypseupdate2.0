@@ -1,11 +1,11 @@
 {
-    "Version": "1.20",
-    "FileList":"https://www.dayzapocalypse.com/update/filelist.json",
-    "FileDelete":"https://www.dayzapocalypse.com/update/filedelete.json",
-    "DownloadUpdate": "https://www.dayzapocalypse.com/update/dayz/",
+    "Version": "1.21",
+    "FileList":"https://www.dayzapocalypse.com/update2.0/filelist.json",
+    "FileDelete":"https://www.dayzapocalypse.com/update2.0/filedelete.json",
+    "DownloadUpdate": "https://www.dayzapocalypse.com/update2.0/dayz/",
     "News": [
-        "https://icarogame.github.io/apocalypseupdate/News/0.png",
-        "https://icarogame.github.io/apocalypseupdate/News/1.png",
-        "https://icarogame.github.io/apocalypseupdate/News/2.png"
+        "https://icarogame.github.io/apocalypseupdate2.0/News/0.png",
+        "https://icarogame.github.io/apocalypseupdate2.0/News/1.png",
+        "https://icarogame.github.io/apocalypseupdate2.0/News/2.png"
     ]
 }
